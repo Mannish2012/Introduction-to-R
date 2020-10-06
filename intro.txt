@@ -1,1 +1,10 @@
 
+This is an introduction to R, a powerful program for numerical analysis and visualization. 
+R can be used for anything from text mining to GIS. 
+
+Like many other programming languages such as Python or Javascript, additional 'packages' can
+be used to greatly augment the power of R. Because it is essentially meant for data analysis
+and statistics, the number of packages available for R is significantly less than that available
+for Python, which is a general purpose programming language. But for the purposes that it is
+most useful for, R and its associated packages are second to none. 
+
